@@ -1,0 +1,15 @@
+.container {
+  @apply text-center flex mt-36;
+
+  .content {
+    @apply m-auto gap-y-8 pb-44;
+
+    h1 {
+      @apply text-8xl text-blue-500;
+
+      div {
+        @apply text-lg;
+      }
+    }
+  }
+}

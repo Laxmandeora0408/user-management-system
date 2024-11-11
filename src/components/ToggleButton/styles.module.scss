@@ -1,0 +1,12 @@
+.container {
+  @apply w-[3.4rem] h-[34px] flex items-center rounded-full px-[0.1rem] py-2 mt-1 cursor-pointer;
+
+  .circle {
+    @apply w-[3.875rem] h-[3.875rem] flex items-center rounded-[134px] p-1 cursor-pointer;
+    @apply w-8 h-8 rounded-full shadow-md transform duration-300 ease-in-out;
+  }
+
+  .circle.circleIsOn {
+    @apply bg-gray-200 translate-x-[calc(3.4rem/3)];
+  }
+}

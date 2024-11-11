@@ -1,0 +1,11 @@
+.container {
+  @apply flex justify-center items-center mt-28 mb-10;
+
+  .content {
+    @apply w-full;
+  }
+
+  .title {
+    @apply text-center text-gray-600 py-2;
+  }
+}

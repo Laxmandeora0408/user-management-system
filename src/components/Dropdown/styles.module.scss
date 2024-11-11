@@ -1,0 +1,29 @@
+.container {
+  @apply relative w-full;
+
+  .input {
+    @apply px-4 py-2 h-[2.25rem] rounded-lg bg-white border border-gray-300 text-base cursor-pointer flex items-center;
+    @apply justify-between transition-colors duration-300 hover:border-blue-500 text-gray-800 mt-1;
+  }
+
+  .inputDisabled {
+    @apply cursor-not-allowed hover:border-transparent;
+  }
+
+  .inputIsOpen {
+    @apply outline-blue-500 outline outline-2 border-transparent hover:border-transparent;
+  }
+
+  .dropdown {
+    @apply absolute w-full bg-white text-gray-200 px-3 py-2;
+    @apply rounded-lg mt-2 max-h-60 overflow-y-auto z-10 text-gray-800 border-2 border-blue-500;
+
+    .options {
+      @apply relative text-base p-2 font-normal border-b border-blue-200 hover:bg-blue-200 cursor-pointer;
+    }
+
+    .selectedOpt {
+      @apply bg-blue-500 text-white hover:bg-yellow-500;
+    }
+  }
+}

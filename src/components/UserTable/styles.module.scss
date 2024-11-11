@@ -1,0 +1,45 @@
+.container {
+  @apply overflow-x-auto mt-4;
+
+  .table {
+    @apply min-w-full bg-white text-gray-600 border border-gray-200;
+
+    .thead {
+      @apply p-4 border-b text-left;
+    }
+
+    .row {
+      @apply hover:bg-gray-100 transition-colors;
+
+      td {
+        @apply p-4;
+      }
+
+      .profilePhoto {
+        @apply flex items-center gap-x-2 w-full;
+
+        div {
+          @apply flex-none w-8 h-8 rounded-full overflow-hidden;
+
+          img {
+            @apply w-full h-full object-cover;
+          }
+        }
+      }
+    }
+
+    .action {
+      div {
+        @apply flex items-center gap-x-4;
+
+        .btn_edit {
+          @apply text-lg text-gray-500 hover:text-blue-500 cursor-pointer;
+        }
+
+        .btn_delete {
+          @apply text-lg  text-gray-500 hover:text-red-500 cursor-pointer;
+        }
+      }
+    }
+  }
+}

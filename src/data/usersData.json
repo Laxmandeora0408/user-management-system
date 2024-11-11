@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Paul Wilson",
+    "email": "alice@example.com",
+    "role": "Admin",
+    "status": "Active",
+    "profilePhoto": "https://img.freepik.com/free-photo/portrait-dark-skinned-confident-man-with-curly-afro-hairstyle-has-calm-face-expression_273609-8520.jpg?semt=ais_hybrid"
+  },
+  {
+    "id": 2,
+    "name": "Margaret Peter",
+    "email": "alice@example.com",
+    "role": "Admin",
+    "status": "Active",
+    "profilePhoto": "https://img.freepik.com/free-photo/portrait-dark-skinned-confident-man-with-curly-afro-hairstyle-has-calm-face-expression_273609-8520.jpg?semt=ais_hybrid"
+  },
+  {
+    "id": 3,
+    "name": "Alice Jones",
+    "email": "alice@example.com",
+    "role": "Admin",
+    "status": "Active",
+    "profilePhoto": "https://img.freepik.com/free-photo/portrait-dark-skinned-confident-man-with-curly-afro-hairstyle-has-calm-face-expression_273609-8520.jpg?semt=ais_hybrid"
+  },
+  {
+    "id": 4,
+    "name": "Michael Jones",
+    "email": "alice@example.com",
+    "role": "Admin",
+    "status": "Active",
+    "profilePhoto": "https://img.freepik.com/free-photo/portrait-dark-skinned-confident-man-with-curly-afro-hairstyle-has-calm-face-expression_273609-8520.jpg?semt=ais_hybrid"
+  },
+  {
+    "id": 5,
+    "name": "Alice Jones",
+    "email": "alice@example.com",
+    "role": "Admin",
+    "status": "Inactive",
+    "profilePhoto": "https://img.freepik.com/free-photo/portrait-dark-skinned-confident-man-with-curly-afro-hairstyle-has-calm-face-expression_273609-8520.jpg?semt=ais_hybrid"
+  },
+  {
+    "id": 6,
+    "name": "Philips Mikeson",
+    "email": "alice@example.com",
+    "role": "Admin",
+    "status": "Active",
+    "profilePhoto": "https://img.freepik.com/free-photo/portrait-dark-skinned-confident-man-with-curly-afro-hairstyle-has-calm-face-expression_273609-8520.jpg?semt=ais_hybrid"
+  },
+  {
+    "id": 7,
+    "name": "Benjamin Waters",
+    "email": "alice@example.com",
+    "role": "Admin",
+    "status": "Active",
+    "profilePhoto": "https://img.freepik.com/free-photo/portrait-dark-skinned-confident-man-with-curly-afro-hairstyle-has-calm-face-expression_273609-8520.jpg?semt=ais_hybrid"
+  },
+  {
+    "id": 8,
+    "name": "Alice Jones",
+    "email": "alice@example.com",
+    "role": "Admin",
+    "status": "Active",
+    "profilePhoto": "https://img.freepik.com/free-photo/portrait-dark-skinned-confident-man-with-curly-afro-hairstyle-has-calm-face-expression_273609-8520.jpg?semt=ais_hybrid"
+  },
+  {
+    "id": 9,
+    "name": "Alice Jones",
+    "email": "alice@example.com",
+    "role": "Admin",
+    "status": "Active",
+    "profilePhoto": "https://img.freepik.com/free-photo/portrait-dark-skinned-confident-man-with-curly-afro-hairstyle-has-calm-face-expression_273609-8520.jpg?semt=ais_hybrid"
+  }
+
+]
