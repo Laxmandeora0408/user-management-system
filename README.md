@@ -1,7 +1,7 @@
 
 # User Management Application
 
-This project is a user management application built using React and TypeScript with vite, allowing users to add, edit, and manage profiles. The app supports functionalities like profile photo upload, validation, local storage, and toast notifications. [Demo Video](https://www.youtube.com/watch?v=Sv40YSuxF_Q)
+This project is a user management application built using React and TypeScript with vite, allowing users to add, edit, and manage profiles. The app supports functionalities like profile photo upload, validation, local storage, and toast notifications. [Demo Video](https://www.youtube.com/watch?v=Sv40YSuxF_Q) Live Project [link](https://userprofilemanager.netlify.app/).
 
 ![UserProfile](https://github.com/user-attachments/assets/e998f5a6-0f04-48a4-8e84-6f26418a756d)
 
