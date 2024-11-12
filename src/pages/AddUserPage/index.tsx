@@ -2,7 +2,7 @@ import { genRandNum } from '../../utils/genRandNum.util';
 import { useNavigate } from 'react-router-dom';
 import UserForm from '@components/UserForm';
 import styles from './styles.module.scss';
-import { UserData } from 'src/interfaces';
+import { UserData } from '../../interfaces';
 import { useLayoutEffect } from 'react';
 import { toast } from 'sonner';
 
